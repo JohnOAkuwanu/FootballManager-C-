@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2631FFA5-771F-487C-87C2-E65E34889C31}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FMProject</RootNamespace>
+    <AssemblyName>FMProject</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.103.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.103\lib\net451\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.103.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.103\lib\net451\System.Data.SQLite.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.103.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.103\lib\net451\System.Data.SQLite.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Domain\BPLTeams.cs" />
+    <Compile Include="Domain\NameGenerator.cs" />
+    <Compile Include="Domain\Positions.cs" />
+    <Compile Include="UI\AttributesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AttributesForm.Designer.cs">
+      <DependentUpon>AttributesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ClubFinances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ClubFinances.Designer.cs">
+      <DependentUpon>ClubFinances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Competitions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Competitions.Designer.cs">
+      <DependentUpon>Competitions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DataManager.cs" />
+    <Compile Include="Domain\ClubInfo.cs" />
+    <Compile Include="Domain\Fixture.cs" />
+    <Compile Include="Domain\FixtureGenerator.cs" />
+    <Compile Include="Domain\GameComponents.cs" />
+    <Compile Include="Domain\GameController.cs" />
+    <Compile Include="Domain\Manager.cs" />
+    <Compile Include="Domain\ManagerAttributes.cs" />
+    <Compile Include="Domain\Player.cs" />
+    <Compile Include="Domain\PlayerAttributes.cs" />
+    <Compile Include="Domain\PlayerMatchStats.cs" />
+    <Compile Include="Domain\PlayerStats.cs" />
+    <Compile Include="Domain\TeamMatchStats.cs" />
+    <Compile Include="Domain\TeamStats.cs" />
+    <Compile Include="UI\CountryDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CountryDialog.Designer.cs">
+      <DependentUpon>CountryDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Formation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Formation.Designer.cs">
+      <DependentUpon>Formation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\GamePlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\GamePlan.Designer.cs">
+      <DependentUpon>GamePlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\InGameHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\InGameHome.Designer.cs">
+      <DependentUpon>InGameHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\JobCentre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\JobCentre.Designer.cs">
+      <DependentUpon>JobCentre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ManagerCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ManagerCreation.Designer.cs">
+      <DependentUpon>ManagerCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ManagerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ManagerProfile.Designer.cs">
+      <DependentUpon>ManagerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="UI\Negotiations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Negotiations.Designer.cs">
+      <DependentUpon>Negotiations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Opening Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Opening Screen.Designer.cs">
+      <DependentUpon>Opening Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\PlayerStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PlayerStatistics.Designer.cs">
+      <DependentUpon>PlayerStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\PlayerTraining.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PlayerTraining.Designer.cs">
+      <DependentUpon>PlayerTraining.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Squad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Squad.Designer.cs">
+      <DependentUpon>Squad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\StaffScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\StaffScreen.Designer.cs">
+      <DependentUpon>StaffScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\TeamStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\TeamStatistics.Designer.cs">
+      <DependentUpon>TeamStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Training.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Training.Designer.cs">
+      <DependentUpon>Training.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\TransferMarket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\TransferMarket.Designer.cs">
+      <DependentUpon>TransferMarket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ViewPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ViewPlayer.Designer.cs">
+      <DependentUpon>ViewPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WageNegotiations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\WageNegotiations.Designer.cs">
+      <DependentUpon>WageNegotiations.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\AttributesForm.resx">
+      <DependentUpon>AttributesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ClubFinances.resx">
+      <DependentUpon>ClubFinances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Competitions.resx">
+      <DependentUpon>Competitions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Formation.resx">
+      <DependentUpon>Formation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\GamePlan.resx">
+      <DependentUpon>GamePlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\InGameHome.resx">
+      <DependentUpon>InGameHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\JobCentre.resx">
+      <DependentUpon>JobCentre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ManagerCreation.resx">
+      <DependentUpon>ManagerCreation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ManagerProfile.resx">
+      <DependentUpon>ManagerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\FMProject.InGameHome.resources" />
+    <EmbeddedResource Include="obj\Debug\FMProject.Properties.Resources.resources" />
+    <EmbeddedResource Include="UI\Negotiations.resx">
+      <DependentUpon>Negotiations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Opening Screen.resx">
+      <DependentUpon>Opening Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\PlayerStatistics.resx">
+      <DependentUpon>PlayerStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\PlayerTraining.resx">
+      <DependentUpon>PlayerTraining.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\Squad.resx">
+      <DependentUpon>Squad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\StaffScreen.resx">
+      <DependentUpon>StaffScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\TeamStatistics.resx">
+      <DependentUpon>TeamStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Training.resx">
+      <DependentUpon>Training.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\TransferMarket.resx">
+      <DependentUpon>TransferMarket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ViewPlayer.resx">
+      <DependentUpon>ViewPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WageNegotiations.resx">
+      <DependentUpon>WageNegotiations.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\FMProject.exe.config" />
+    <None Include="bin\Debug\FMProject.vshost.exe.config" />
+    <None Include="bin\Debug\FMProject.vshost.exe.manifest" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\FMProject.csproj.GenerateResource.Cache" />
+    <None Include="packages.config" />
+    <None Include="playerDatabase.sqlite">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\FMProject.exe" />
+    <Content Include="bin\Debug\FMProject.pdb" />
+    <Content Include="bin\Debug\FMProject.vshost.exe" />
+    <Content Include="Data\CurrentGameData\AmendableLeagueData.xml" />
+    <Content Include="Data\CurrentGameData\CurrentPlayerDatabase.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Data\CurrentGameData\CurrentPlayers.xml" />
+    <Content Include="Data\CurrentGameData\ManagerProfile.xml" />
+    <Content Include="Data\FixedGameData\CountriesList.xml" />
+    <Content Include="Data\FixedGameData\BPLLeagueDataNew.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\FixedGameData\NewBPLPlayers.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Data\FixedGameData\NewBPLPlayersAdjusted.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Data\FixedGameData\LanguagesList.xml" />
+    <Content Include="obj\Debug\FMProject.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\FMProject.exe" />
+    <Content Include="obj\Debug\FMProject.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.103\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.103\build\net451\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.103\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.103\build\net451\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

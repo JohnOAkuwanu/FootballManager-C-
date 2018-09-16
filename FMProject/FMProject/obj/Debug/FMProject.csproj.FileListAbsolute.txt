@@ -1,0 +1,151 @@
+D:\Visual Studio Projects\FMProject\FMProject\bin\Debug\FMProject.exe.config
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.InGameHome.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.Properties.Resources.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\FMProject\FMProject\bin\Debug\FMProject.exe
+D:\Visual Studio Projects\FMProject\FMProject\bin\Debug\FMProject.pdb
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.exe
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.pdb
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.AttributesForm.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.ClubFinances.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.Competitions.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.GamePlan.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.JobCentre.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.ManagerCreation.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.ManagerProfile.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.Form1.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.PlayerStatistics.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.PlayerTraining.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.ScoutingScreen.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.Squad.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.StaffScreen.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.TeamStatistics.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.Training.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.TransferMarket.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.ViewPlayer.resources
+D:\Visual Studio Projects\FMProject\FMProject\bin\Debug\Data\FixedGameData\BPLLeagueDataNew.xml
+D:\Visual Studio Projects\FMProject\FMProject\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio Projects\FMProject\FMProject\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio Projects\FMProject\FMProject\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio Projects\FMProject\FMProject\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio Projects\FMProject\FMProject\bin\Debug\playerDatabase.sqlite
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.UI.Formation.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.UI.NegotiationsScreen.resources
+D:\Visual Studio Projects\FMProject\FMProject\obj\Debug\FMProject.csprojResolveAssemblyReference.cache
+E:\FMProject\FMProject\bin\Debug\FMProject.exe.config
+E:\FMProject\FMProject\obj\Debug\FMProject.exe
+E:\FMProject\FMProject\obj\Debug\FMProject.pdb
+E:\FMProject\FMProject\bin\Debug\Data\FixedGameData\BPLLeagueDataNew.xml
+E:\FMProject\FMProject\bin\Debug\playerDatabase.sqlite
+E:\FMProject\FMProject\bin\Debug\FMProject.exe
+E:\FMProject\FMProject\bin\Debug\FMProject.pdb
+E:\FMProject\FMProject\bin\Debug\System.Data.SQLite.dll
+E:\FMProject\FMProject\bin\Debug\System.Data.SQLite.EF6.dll
+E:\FMProject\FMProject\bin\Debug\System.Data.SQLite.Linq.dll
+E:\FMProject\FMProject\bin\Debug\System.Data.SQLite.xml
+E:\FMProject\FMProject\obj\Debug\FMProject.csprojResolveAssemblyReference.cache
+E:\FMProject\FMProject\obj\Debug\FMProject.AttributesForm.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.ClubFinances.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.Competitions.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.UI.Formation.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.GamePlan.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.InGameHome.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.JobCentre.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.ManagerCreation.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.ManagerProfile.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.UI.NegotiationsScreen.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.Form1.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.PlayerStatistics.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.PlayerTraining.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.Properties.Resources.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.Squad.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.StaffScreen.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.TeamStatistics.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.Training.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.TransferMarket.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.ViewPlayer.resources
+E:\FMProject\FMProject\obj\Debug\FMProject.csproj.GenerateResource.Cache
+E:\FMProject\FMProject\obj\Debug\FMProject.UI.WageNegotiations.resources
+D:\documents\FMProject\FMProject\bin\Debug\FMProject.exe.config
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.exe
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.pdb
+D:\documents\FMProject\FMProject\bin\Debug\Data\FixedGameData\BPLLeagueDataNew.xml
+D:\documents\FMProject\FMProject\bin\Debug\playerDatabase.sqlite
+D:\documents\FMProject\FMProject\bin\Debug\FMProject.exe
+D:\documents\FMProject\FMProject\bin\Debug\FMProject.pdb
+D:\documents\FMProject\FMProject\bin\Debug\System.Data.SQLite.dll
+D:\documents\FMProject\FMProject\bin\Debug\System.Data.SQLite.EF6.dll
+D:\documents\FMProject\FMProject\bin\Debug\System.Data.SQLite.Linq.dll
+D:\documents\FMProject\FMProject\bin\Debug\System.Data.SQLite.xml
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.csprojResolveAssemblyReference.cache
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.AttributesForm.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.ClubFinances.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.Competitions.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.UI.Formation.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.GamePlan.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.InGameHome.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.JobCentre.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.ManagerCreation.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.ManagerProfile.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.UI.NegotiationsScreen.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.Form1.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.PlayerStatistics.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.PlayerTraining.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.Properties.Resources.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.Squad.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.StaffScreen.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.TeamStatistics.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.Training.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.TransferMarket.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.ViewPlayer.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.UI.WageNegotiations.resources
+D:\documents\FMProject\FMProject\obj\Debug\FMProject.csproj.GenerateResource.Cache
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.csprojResolveAssemblyReference.cache
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.AttributesForm.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.ClubFinances.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.Competitions.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.UI.Formation.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.GamePlan.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.InGameHome.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.JobCentre.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.ManagerCreation.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.ManagerProfile.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.UI.NegotiationsScreen.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.Form1.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.PlayerStatistics.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.PlayerTraining.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.Properties.Resources.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.Squad.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.StaffScreen.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.TeamStatistics.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.Training.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.TransferMarket.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.ViewPlayer.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.UI.WageNegotiations.resources
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.csproj.GenerateResource.Cache
+D:\documents\Downloads\FMProject\FMProject\obj\Debug\FMProject.exe
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.csprojAssemblyReference.cache
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.AttributesForm.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.ClubFinances.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.Competitions.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.UI.Formation.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.GamePlan.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.InGameHome.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.JobCentre.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.ManagerCreation.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.ManagerProfile.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.UI.NegotiationsScreen.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.Form1.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.PlayerStatistics.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.PlayerTraining.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.Properties.Resources.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.Squad.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.StaffScreen.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.TeamStatistics.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.Training.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.TransferMarket.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.ViewPlayer.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.UI.WageNegotiations.resources
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.csproj.GenerateResource.cache
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.csproj.CoreCompileInputs.cache
+D:\Comp Sci 1st Year\Self-FM Project\FMProject\FMProject\obj\Debug\FMProject.exe

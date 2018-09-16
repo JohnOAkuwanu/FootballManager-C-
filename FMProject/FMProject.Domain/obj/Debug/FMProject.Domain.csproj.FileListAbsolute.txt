@@ -1,0 +1,14 @@
+E:\FMProject\FMProject.Domain\bin\Debug\FMProject.Domain.dll
+E:\FMProject\FMProject.Domain\bin\Debug\FMProject.Domain.pdb
+E:\FMProject\FMProject.Domain\obj\Debug\FMProject.Domain.dll
+E:\FMProject\FMProject.Domain\obj\Debug\FMProject.Domain.pdb
+D:\documents\FMProject\FMProject.Domain\bin\Debug\FMProject.Domain.dll
+D:\documents\FMProject\FMProject.Domain\bin\Debug\FMProject.Domain.pdb
+D:\documents\FMProject\FMProject.Domain\obj\Debug\FMProject.Domain.csprojResolveAssemblyReference.cache
+D:\documents\FMProject\FMProject.Domain\obj\Debug\FMProject.Domain.dll
+D:\documents\FMProject\FMProject.Domain\obj\Debug\FMProject.Domain.pdb
+D:\documents\Downloads\FMProject\FMProject.Domain\bin\Debug\FMProject.Domain.dll
+D:\documents\Downloads\FMProject\FMProject.Domain\bin\Debug\FMProject.Domain.pdb
+D:\documents\Downloads\FMProject\FMProject.Domain\obj\Debug\FMProject.Domain.csprojResolveAssemblyReference.cache
+D:\documents\Downloads\FMProject\FMProject.Domain\obj\Debug\FMProject.Domain.dll
+D:\documents\Downloads\FMProject\FMProject.Domain\obj\Debug\FMProject.Domain.pdb

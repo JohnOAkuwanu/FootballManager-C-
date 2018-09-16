@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ManagerData>
+  <Manager>
+    <Name>ds</Name>
+    <Club>Arsenal</Club>
+    <DOB>2038-03-10T00:00:00+00:00</DOB>
+    <primarynationality>Andorra</primarynationality>
+    <secondarynationality>None</secondarynationality>
+    <primarylang>Abkhazian</primarylang>
+    <secondarylang>None</secondarylang>
+    <Attacking>0</Attacking>
+    <Defending>0</Defending>
+    <Goalkeeping>0</Goalkeeping>
+    <Mental>0</Mental>
+    <Tactical>0</Tactical>
+    <Youthdev>0</Youthdev>
+    <Technical>0</Technical>
+    <Fitness>0</Fitness>
+    <Motivating>0</Motivating>
+    <Determination>0</Determination>
+    <playerknowledge>0</playerknowledge>
+    <Discipline>0</Discipline>
+    <Adaptability>0</Adaptability>
+    <Workratemanager>0</Workratemanager>
+    <Mediahandling>0</Mediahandling>
+    <Managerpoints>0</Managerpoints>
+    <Leaguetitles>0</Leaguetitles>
+    <Seasonsplayed>1</Seasonsplayed>
+    <Clubsmanaged>1</Clubsmanaged>
+    <CupWins>0</CupWins>
+    <GamesPlayed>0</GamesPlayed>
+    <Wins>0</Wins>
+    <Draws>0</Draws>
+    <Losses>0</Losses>
+    <GoalsFor>0</GoalsFor>
+    <GoalsAgainst>0</GoalsAgainst>
+    <Promotions>0</Promotions>
+    <SkillCredits>50</SkillCredits>
+    <Playerknowledge>0</Playerknowledge>
+  </Manager>
+</ManagerData>

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<BPLLegaueData>
+<participants>
+  <participant>
+    <Name>Arsenal</Name> <rank>1</rank>
+    <played>0</played>
+    <wins>0</wins> <draws>0</draws> <losses>0</losses> <GF>0</GF>
+      <GA>0</GA> <points>0</points>
+    </participant>
+  <participant>
+    <Name>Aston Villa</Name>
+    <rank>2</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+  </participant>
+  <participant>
+    <Name>Bournemouth</Name>
+    <rank>3</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+  </participant>
+  <participant>
+    <Name>Chelsea</Name>
+    <rank>4</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+  </participant>
+  <participant>
+    <Name>Crystal Palace</Name>
+    <rank>5</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Everton</Name>
+    <rank>6</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Leicester</Name>
+    <rank>7</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Liverpool</Name>
+    <rank>8</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Man City</Name>
+    <rank>9</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Man United</Name>
+    <rank>10</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Newcastle</Name>
+    <rank>11</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Norwich</Name>
+    <rank>12</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Southampton</Name>
+    <rank>13</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Stoke</Name>
+    <rank>14</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Sunderland</Name>
+    <rank>15</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Swansea</Name>
+    <rank>16</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Tottenham</Name>
+    <rank>17</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>Watford</Name>
+    <rank>18</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>West Brom</Name>
+    <rank>19</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+  <participant>
+    <Name>West Ham</Name>
+    <rank>20</rank>
+    <played>0</played>
+    <wins>0</wins>
+    <draws>0</draws>
+    <losses>0</losses>
+    <GF>0</GF>
+    <GA>0</GA>
+    <points>0</points>
+
+  </participant>
+</participants>
+  </BPLLegaueData>
